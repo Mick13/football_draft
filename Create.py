@@ -279,15 +279,14 @@ def main():
     
     load_repository()
     print(player_repository)
-    my_team = Team()  # Create an instance of the Team class for the user to interact with
+    my_team = Team()  # Create an instance of the Team class
     
     while True:
         print("\nOptions:")
         print("1: Display Rankings")
         print("2: Remove Player from Repository")
         print("3: Add Player to Team")
-        print("4: Display Team")
-        print("5: Export Team to Excel")
+        print("4: Export Team to Excel")
         print("Type 'Stop' to exit.")
         
         function = input("\nEnter a function: ")
@@ -311,10 +310,10 @@ def main():
             else:
                 print(f"No player named {name} found in {position}.")
             
-        elif function == "4":
-            pass
+        # elif function == "4":
+        #     pass
             
-        elif function == "5":
+        elif function == "4":
             filename = input("Enter the filename (default: team.xlsx): ")
             if not filename:
                 filename = "team.xlsx"

@@ -1,0 +1,14 @@
+Running Backs
+Tier 1
+Jonathan Taylor,45
+Christian McCaffrey,43
+Austin Ekeler,43
+Derrick Henry,65
+Najee Harris,23
+Dalvin Cook,56
+Alvin Kamara,23
+Tier 2
+Joe Mixon,24
+Leonard Fournette,54
+DAndre Swift,46
+Nick Chubb,32

@@ -1,0 +1,10 @@
+Tight Ends
+Tier 1
+Travis Kelce,32
+Kyle Pitts,32
+Mark Andrews,12
+Tier 2
+Dallas Goedert, 21
+Darren Waller,14
+George Kittle, 16
+Dalton Schultz,17

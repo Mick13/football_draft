@@ -1,0 +1,10 @@
+Quarterbacks
+Tier 1
+Josh Allen,20
+Lamar Jackson, 30
+Patrick Mahomes, 24
+Justin Herbert, 28
+Tier 2
+Jalen Hurts, 27
+Kyler Murray,22
+Russell Wilson,17

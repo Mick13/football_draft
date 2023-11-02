@@ -4,13 +4,16 @@ import ctypes
 import openpyxl
 from openpyxl import Workbook
 import os
-
+ 
 
 """
 Drafting software for american football fictional roster.
 Attatched player files contain names with aribiraty ages assigned to them. 
 EXCEL export supported as well - 
+to run write in termianal: # python3 -m pip install openpyxl
 in the process of modifying into a full stack application
+Created and completed 07/2022. Uploaded to github 11/2023
+used ArrayList to support other functionalitys
 """
 
 
